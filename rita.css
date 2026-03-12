@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+    font-family: sans-serif;
+    margin: 20px;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+figcaption{
+    margin-top: 8px;
+    text-align: center;
+    font-style: italic;
+    color: brown;
+}
+h1{
+    color:black;
+    text-align: center;
+    font-style: italic;
+}
+p{
+    font-size: 18px;
+    line-height: 1.2;
+    color: black;
+}
